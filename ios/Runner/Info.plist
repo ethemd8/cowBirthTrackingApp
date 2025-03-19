@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <!-- ...existing keys... -->
+    <key>CFBundleDisplayName</key>
+    <string>Yeni Uygulama İsmi</string>  <!-- Change to your desired app name -->
+    <!-- ...existing keys... -->
+</dict>
+</plist>
