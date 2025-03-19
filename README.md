@@ -52,9 +52,6 @@ EKRAN GÖRÜNTÜLERİ
 
 
 
-İLETİŞİM
---------
-[İletişim bilgilerinizi buraya ekleyebilirsiniz]
 
 LİSANS
 ------
